@@ -29,7 +29,7 @@ This dashboard was developed to answer key business questions such as:
 
 ### Executive Summary
 
-![Dashboard](Images/dashboard_cover.png)
+![Dashboard](https://github.com/JustDamad/HR-Analytics-Dashboard/blob/main/Images/dashboard.png)
 
 
 ## Key Performance Indicators (KPIs)
