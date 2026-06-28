@@ -1,6 +1,11 @@
 
 # HR Analytics Dashboard
 
+## Badges
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
+![DAX](https://img.shields.io/badge/DAX-Used-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## Project Overview
 
 The HR Analytics Dashboard is an interactive Power BI project designed to help Human Resource professionals monitor workforce trends, understand employee attrition, and make data-driven decisions.
@@ -147,7 +152,13 @@ Potential improvements for future versions include:
 - Interactive Reporting
 - Data Storytelling
 
+## Future Improvements
 
+- Add predictive attrition analysis.
+- Include department trend analysis over time.
+- Build an executive summary page.
+- Connect the dashboard to a live HR database.
+  
 ## Author
 
 Damilola Aderemilekun Adegboye
